@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "auctionserver.aternos.me",
+    "port":61655 ,
+    "version": "1.8.8",
     "try-creative": false
   },
   "position": {
