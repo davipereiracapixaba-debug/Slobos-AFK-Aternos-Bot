@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "montesmp.aternos.me",
-    "port": 27330,
+    "ip": "forticraftmcc.aternos.me",
+    "port": 39051,
     "version": "1.21.11",
     "try-creative": false
   },
