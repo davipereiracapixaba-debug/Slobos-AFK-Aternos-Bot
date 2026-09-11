@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "forticraftmcc.aternos.me",
-    "port": 39051,
+    "ip": "ImpCubixSmp.aternos.me",
+    "port": 61839,
     "version": "1.21.11",
     "try-creative": false
   },
